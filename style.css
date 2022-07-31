@@ -8,6 +8,6 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-.image-filter {
-    filter: brightness(50%);
+.image{
+    filter: brightness(70%);
 }
